@@ -19,7 +19,7 @@ Mening tajribam veb-ishlab chiqishga kompleks yondashuvni ta'minlaydigan front-e
 
 ### Backend ishlab chiqish
 - Tillar: PHP
--  Ramkalar: Yii2
+-  Ramkalar: Yii2, Laravel
 - Ma'lumotlar bazasini boshqarish: MySQL
 - Tushunchalar: Ob'ektga yo'naltirilgan dasturlash (OOP), MVC arxitekturasi
 
